@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ambitious React Develop, with a passion for coding, loves to build applications. I'm very passionate about learning new skills and technologies.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mata0050)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mata0050/mata0050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
